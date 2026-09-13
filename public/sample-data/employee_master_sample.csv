@@ -1,0 +1,21 @@
+employee_id,full_name,manager_id,department,hire_date,termination_date,status
+E001,Dana Whitfield,,Executive,2016-01-11,,Active
+E002,Marcus Ibe,E001,Sales,2017-03-04,,Active
+E003,Priya Natarajan,E001,Engineering,2017-06-19,,Active
+E004,Sofia Reyes,E002,Sales,2018-02-12,,Active
+E005,Tom Kowalski,E002,Sales,2018-09-01,2023-11-15,Terminated
+E006,Aisha Bello,E002,Sales,2019-01-22,,Active
+E007,Liang Chen,E003,Engineering,2018-04-08,,Active
+E008,Fatima Al-Sayed,E003,Engineering,2019-07-30,,Active
+E009,Noah Bergstrom,E003,Engineering,2020-02-17,2024-05-02,Terminated
+E010,Grace O'Connor,E003,Engineering,2020-08-24,,Active
+E011,Diego Alvarez,E007,Engineering,2021-01-13,,Active
+E012,Hannah Park,E007,Engineering,2021-05-19,,Active
+E013,Youssef Amrani,E007,Engineering,2021-11-02,2024-01-09,Terminated
+E014,Ingrid Sundberg,E008,Engineering,2022-03-07,,Active
+E015,Wei Zhang,E008,Engineering,2022-06-21,,Active
+E016,Olamide Adeyemi,E004,Sales,2019-10-05,,Active
+E017,Claire Dubois,E004,Sales,2020-04-14,,Active
+E018,Ben Fletcher,E006,Sales,2021-02-28,2023-08-19,Terminated
+E019,Meera Krishnan,E006,Sales,2021-09-09,,Active
+E020,Jack Sullivan,E006,Sales,2022-12-01,,Active
